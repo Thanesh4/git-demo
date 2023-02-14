@@ -1,1 +1,2 @@
 Git is a useful device.
+Git is a useful website.
